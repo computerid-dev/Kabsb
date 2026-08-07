@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EchoChat</string>
+    <string name="app_tagline">Ngobrol tanpa jejak, sepenuhnya milikmu</string>
+
+    <string name="setup_title">Buat akun tamu</string>
+    <string name="setup_subtitle">Data kamu tersimpan di perangkat ini saja. Cukup pilih nama panggilan untuk mulai.</string>
+    <string name="hint_display_name">Nama panggilan kamu</string>
+    <string name="action_continue">Lanjutkan</string>
+    <string name="error_name_empty">Nama panggilan tidak boleh kosong</string>
+
+    <string name="tab_chats">Chat</string>
+    <string name="tab_contacts">Kontak</string>
+    <string name="tab_account">Info Akun</string>
+
+    <string name="home_title">Obrolan</string>
+    <string name="contacts_title">Kontak</string>
+    <string name="account_title">Info Akun</string>
+
+    <string name="your_id_label">ID kamu</string>
+    <string name="action_copy">Salin</string>
+    <string name="id_copied">ID disalin ke clipboard</string>
+    <string name="empty_friend_list">Belum ada obrolan. Ketuk tombol + untuk menambahkan teman lewat kode ID.</string>
+    <string name="empty_contact_list">Belum ada kontak tersimpan.</string>
+
+    <string name="add_friend_title">Tambah teman</string>
+    <string name="hint_friend_id">Kode ID teman</string>
+    <string name="hint_friend_nickname">Nama panggilan untuk teman ini</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_checking">Memeriksa ID…</string>
+    <string name="error_friend_id_empty">Kode ID teman tidak boleh kosong</string>
+    <string name="error_friend_nickname_empty">Nama panggilan tidak boleh kosong</string>
+    <string name="error_friend_id_self">Kode ID ini adalah milikmu sendiri</string>
+    <string name="error_friend_exists">Teman dengan kode ID ini sudah ada</string>
+    <string name="error_friend_id_not_found">ID ini belum pernah membuat akun EchoChat</string>
+    <string name="error_check_failed">Gagal memeriksa ID, cek koneksi internet dan coba lagi</string>
+
+    <string name="hint_message">Tulis pesan…</string>
+    <string name="empty_chat">Belum ada pesan. Mulai obrolan sekarang.</string>
+    <string name="menu_wallpaper">Ganti wallpaper</string>
+    <string name="menu_reset_wallpaper">Hapus wallpaper</string>
+    <string name="menu_friend_detail">Detail teman</string>
+    <string name="blocked_notice">Teman ini sudah kamu blokir. Buka blokir untuk mengirim pesan lagi.</string>
+
+    <string name="friend_detail_title">Detail teman</string>
+    <string name="action_start_chat">Mulai chat</string>
+    <string name="action_block">Blokir teman</string>
+    <string name="action_unblock">Buka blokir</string>
+    <string name="action_delete_friend">Hapus pertemanan</string>
+    <string name="confirm_delete_title">Hapus pertemanan?</string>
+    <string name="confirm_delete_message">Teman dan seluruh riwayat chat dengannya akan dihapus permanen dari perangkat ini.</string>
+    <string name="confirm_block_title">Blokir teman ini?</string>
+    <string name="confirm_block_message">Kamu tidak akan bisa mengirim atau menerima pesan dari teman ini sampai blokir dibuka.</string>
+    <string name="action_yes">Ya</string>
+    <string name="action_cancel">Batal</string>
+
+    <string name="action_save_name">Simpan nama</string>
+    <string name="name_saved">Nama berhasil disimpan</string>
+    <string name="action_change_avatar">Ubah avatar</string>
+    <string name="action_backup_export">Ekspor backup (JSON)</string>
+    <string name="action_backup_import">Impor backup (JSON)</string>
+    <string name="backup_export_success">Backup berhasil disimpan</string>
+    <string name="backup_import_success">Backup berhasil diimpor</string>
+    <string name="backup_failed">Gagal memproses file backup</string>
+</resources>
